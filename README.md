@@ -1,5 +1,5 @@
 
-<div align="center"><h1>🍃 VISHWA-𝐌𝐃 🍃 </h1><a href="https://github.com/vishwamihi/VISHWA-BOT-MD"><img src="[https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg](https://i.ibb.co/ZxTb4sr/65a8a9c5347bc.jpg)" width="650" height="450"></a></div>
+<div align="center"><h1>🍃 VISHWA-𝐌𝐃 🍃 </h1><a href="https://github.com/vishwamihi/VISHWA-BOT-MD"><img src="https://i.ibb.co/ZxTb4sr/65a8a9c5347bc.jpg" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=❝𝐕𝐈𝐒𝐇𝐖𝐀-𝐌𝐃+❞+ʙʏ+@vishwamihiranga" alt="">
