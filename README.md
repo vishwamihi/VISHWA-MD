@@ -1,7 +1,4 @@
 
-  <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=VISHWA+-+Md;Created+By+VISHWA MIHIRANGA" alt="Typing SVG" /></a>
-</h2> 
 <div align="center"><h1>🍃 VISHWA-𝐌𝐃 🍃 </h1><a href="https://github.com/vishwamihi/VISHWA-BOT-MD"><img src="[https://i.ibb.co/G5hhDkY/397495273-213856521727106-7536776473318994727-n.jpg](https://i.ibb.co/ZxTb4sr/65a8a9c5347bc.jpg)" width="650" height="450"></a></div>
 
 <p align="center">
