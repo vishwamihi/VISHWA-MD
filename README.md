@@ -35,7 +35,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
     <br>
 <a href="https://github.com/vishwamihi/VISHWA-MD/fork"><img title="VISHWA-MD -1.0" src="https://img.shields.io/badge/FORK VISHWA-MD -1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***VISHWA-SECTION*** 
     <br>
 <a href='https://replit.com/@SithumKalhara/SITHUWA-MD#Console' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
