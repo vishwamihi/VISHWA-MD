@@ -33,7 +33,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/vishwamihi/VISHWA-MD/fork"><img title="VISHWA-MD -1.0" src="https://img.shields.io/badge/FORK VISHWA-MD -1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/vishwamihi/VISHWA-MD/fork"><img title="VISHWA-MD -1.0" src="https://img.shields.io/badge/FORK_VISHWA-MD_-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***VISHWA-SECTION*** 
     <br>
